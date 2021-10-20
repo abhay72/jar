@@ -1,6 +1,6 @@
 package com.abhay.jenkins;
 
-public class jenkins_calculator {
+public class JenkinsCalculator {
 	public int add_num(int x,int y) {
 		return x+y;
 		
