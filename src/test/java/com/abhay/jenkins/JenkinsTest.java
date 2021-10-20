@@ -8,12 +8,12 @@ public class jenkins_test {
 
 	@Test
 	public int addTest() {
-		JenkinsCalculator myCalc = new JenkinsCalculator();
+		jenkins_calculator myCalc = new jenkins_calculator();
 		assertEquals(10,myCalc.add_num(5,5));
 	}
 	@Test
 	public int subtractTest() {
-		JenkinsCalculator myCalc = new JenkinsCalculator();
+		jenkins_calculator myCalc = new jenkins_calculator();
 		assertEquals(5,myCalc.sub_num(10,5));
 	}
 
