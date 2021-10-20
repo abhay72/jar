@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class JenkinsTest {
+public class jenkins_test {
 
 	@Test
 	public int addTest() {
